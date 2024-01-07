@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository has been archived because it has been obsoleted by `ServiceMonitor` and `PodMonitor`. See the [Prometheus Operator Documentation](https://github.com/prometheus-operator/prometheus-operator/blob/main/Documentation/api.md) for details.
+
+
 # exporter-merger
 
 [![Build Status](https://github.com/jkreileder/exporter-merger/workflows/build/badge.svg)](https://github.com/jkreileder/exporter-merger/actions?query=workflow%3Abuild)
